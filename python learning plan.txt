@@ -1,7 +1,10 @@
 PYTHON LEARNING PLAN
 
 1. Introduction
+  - Programming Language
+  - Why Should Python?
 2. Python Basics
 3. Programing Logic Flow 
 4. Fuction
 5. Object Oriented Programming
+6. Matplotlib Package
