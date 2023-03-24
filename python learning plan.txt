@@ -1,0 +1,5 @@
+PYTHON LEARNING PLAN
+
+1. Introduction
+2. Python Basics
+3. Programing Logic Flow 
