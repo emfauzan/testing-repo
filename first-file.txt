@@ -1,1 +1,3 @@
 LATIHAN GITHUB
+1. This file for practice
+2. Ignore this file
