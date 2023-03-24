@@ -1,0 +1,7 @@
+PYTHON LEARNING PLAN
+
+1. Introduction
+2. Python Basics
+3. Programing Logic Flow 
+4. Fuction
+5. Object Oriented Programming
