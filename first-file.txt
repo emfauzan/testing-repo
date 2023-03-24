@@ -1,3 +1,6 @@
-LATIHAN GITHUB
+README.TXT
+
 1. This file for practice
 2. Ignore this file
+3. Some files in this repo are used for practice
+4. This is information file
