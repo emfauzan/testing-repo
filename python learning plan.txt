@@ -4,6 +4,8 @@ PYTHON LEARNING PLAN
    - What is Program?
    - Why Should Python?
 2. Python Basics
+   - Variable Concept
+   - Data Type
 3. Programing Logic Flow 
 4. Fuction
 5. Object Oriented Programming

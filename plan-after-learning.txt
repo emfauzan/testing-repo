@@ -1,0 +1,5 @@
+Plan after Python Learning
+
+1. Can do Audio Measurement Using Python
+2. Automation Measurement Using Python
+3. Data Processing Using Python
